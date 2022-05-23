@@ -9,10 +9,8 @@
 
 ## Built With
 
-- HTML5
+- React
 - CSS
-- Js
-- Webpack
 
 ### Prerequisites
 - Create Github repository
