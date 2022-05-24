@@ -1,0 +1,15 @@
+.resultContainer {
+  background-color: lightgray;
+  height: 20%;
+  border-bottom: 1px solid black;
+}
+
+.resultContainer > p {
+  font-size: 40px;
+  width: 10%;
+  float: right;
+  height: 28%;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+}
