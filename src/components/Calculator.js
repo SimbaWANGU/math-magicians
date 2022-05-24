@@ -1,4 +1,3 @@
-/* eslint-disable no-useless-constructor */
 import React from 'react';
 import './Calculator.css';
 import Result from './Result';
@@ -6,10 +5,6 @@ import InputValue from './InputValue';
 
 // eslint-disable-next-line react/prefer-stateless-function
 class Calculator extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     return (
       <div className="calculatorContainer">
