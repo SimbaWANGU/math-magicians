@@ -12,6 +12,11 @@
   height: 70%;
 }
 
+.resultContainer {
+  width: 100%;
+  padding: 0;
+}
+
 .firstRow {
   display: flex;
   flex-direction: row;
