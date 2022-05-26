@@ -3,11 +3,12 @@ import './Result.css';
 import PropTypes from 'prop-types';
 
 const Result = ({ result }) => {
-  (
+  const text = 'text';
+  return (
     <input
       className="resultContainer"
       value={result}
-      type="text"
+      type={text}
       onKeyDown={(e) => e.preventDefault()}
       disabled
     />
