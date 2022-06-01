@@ -8,12 +8,12 @@ function Navbar() {
     text: 'Home',
   },
   {
-    id: 1,
+    id: 2,
     path: '/calc',
     text: 'Calculator',
   },
   {
-    id: 1,
+    id: 3,
     path: '/quote',
     text: 'Quote',
   }];
