@@ -25,9 +25,9 @@
 - `cd math-magicians`
 - open file in preferred editor
 - Run `npm install` to install dependencies
-- Run `npm start` to start project in server 
+- Run `npm start` to start project in server or
+- Run `npm test` to test all the functionnalities of the app
 - HTML, CSS Linter configuration - https://github.com/microverseinc/linters-config/tree/master/react-redux
-
 
 ## Author
 🧑  **Simba Eugene**
@@ -35,6 +35,12 @@
 - GitHub: [@SimbaWANGU](https://github.com/SimbaWANGU)
 - Twitter: [@simb_erella](https://twitter.com/simb_erella)
 - LinkesIn: [Simba Wangulu](https://www.linkedin.com/in/simba-wangulu/)
+
+🧑  **Camile Vahviraki**
+
+- GitHub: [@camilevahviraki](https://github.com/camilevahviraki)
+- Twitter: [@camilevahviraki](https://twitter.com/CamileVahviraki)
+- LinkedIn: [camilevahviraki](https://www.linkedin.com/in/camile-vahviraki-8180a6232/)
 
 ## 🤝 Contributing
 

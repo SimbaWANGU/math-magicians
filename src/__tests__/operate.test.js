@@ -13,4 +13,11 @@ describe('test operate', () => {
   it('multiplication', () => {
     assert(operate('15', '5', 'x') === '75');
   });
+  it('substraction', () => {
+    assert(operate('45', '5', '÷') === '9');
+  });
+
+  it('multiplication', () => {
+    assert(operate('22', '5', '%') === '2');
+  });
 });

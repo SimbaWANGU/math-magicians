@@ -34,6 +34,12 @@ const respNoNext = {
   operation: '+',
 };
 
+const mines1 = {
+  total: '762',
+  next: '-45768',
+  operation: null,
+};
+
 describe('test calculate', () => {
   it('test AC', () => {
     expect(calculate(obj1, 'AC')).toStrictEqual(respAC);
@@ -49,5 +55,8 @@ describe('test calculate', () => {
 
   it('test no Next', () => {
     expect(calculate(noNext, '+')).toStrictEqual(respNoNext);
+  });
+  it('test +/-', () => {
+    expect(calculate(obj1, '+/-')).toStrictEqual(mines1);
   });
 });
