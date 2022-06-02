@@ -10,7 +10,7 @@ const InputValue = ({ content, backgroundColor, handleClick }) => {
   const className = 'nameOfValue';
   return (
     <div className={classNameDiv} style={{ backgroundColor }}>
-      <p className={className} onClick={() => handleClick(content)}>{content}</p>
+      <p data-testid="calcValue" className={className} onClick={() => handleClick(content)}>{content}</p>
     </div>
   );
 };

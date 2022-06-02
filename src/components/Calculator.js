@@ -16,7 +16,7 @@ const Calculator = () => {
   };
 
   return (
-    <div className="calculatorContainer">
+    <div data-testid="caculatorDisplay" className="calculatorContainer">
       <div>
         <Result result={obj.next || obj.total || 0} className="resultContainer" />
         <div className="firstRow">
