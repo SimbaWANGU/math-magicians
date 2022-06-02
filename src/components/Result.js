@@ -6,6 +6,7 @@ const Result = ({ result }) => {
   const text = 'text';
   return (
     <input
+      data-testid="resultDisplay"
       className="resultContainer"
       value={result}
       type={text}

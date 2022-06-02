@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input component tests Renders as expected 1`] = `
+<div
+  className="inputValue"
+  style={
+    Object {
+      "backgroundColor": "blue",
+    }
+  }
+>
+  <p
+    className="nameOfValue"
+    data-testid="calcValue"
+    onClick={[Function]}
+  >
+    7
+  </p>
+</div>
+`;
