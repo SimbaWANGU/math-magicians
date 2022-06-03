@@ -44,7 +44,8 @@
 
 ## Deploy
 
-The live site can be viewed [here](https://math---magician.herokuapp.com/calc)
+The live link from Heroku can be viewed [here](https://math---magician.herokuapp.com/calc)
+The live link from Netlify can be found [here](https://flourishing-clafoutis-72f88f.netlify.app/)
 
 ## 🤝 Contributing
 
