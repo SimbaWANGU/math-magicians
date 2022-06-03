@@ -42,6 +42,10 @@
 - Twitter: [@camilevahviraki](https://twitter.com/CamileVahviraki)
 - LinkedIn: [camilevahviraki](https://www.linkedin.com/in/camile-vahviraki-8180a6232/)
 
+## Deploy
+
+The live site can be viewed [here](https://math---magician.herokuapp.com/calc)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
