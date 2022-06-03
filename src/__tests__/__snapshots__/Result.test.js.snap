@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Result display tests display properly the correct result 1`] = `
+<input
+  className="resultContainer"
+  data-testid="resultDisplay"
+  disabled={true}
+  onKeyDown={[Function]}
+  type="text"
+  value={0.1839870354127373}
+/>
+`;

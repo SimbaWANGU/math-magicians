@@ -1,0 +1,12 @@
+.homeDiv {
+  text-align: center;
+  margin: 10px 0 0 0;
+  height: 70%;
+}
+
+.homeParagraph {
+  font-size: 16px;
+  line-height: 20px;
+  color: rgba(40, 40, 40, 0.9);
+  height: 40%;
+}

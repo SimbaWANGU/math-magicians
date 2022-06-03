@@ -1,0 +1,347 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator tests Calculator renders as expected 1`] = `
+<div
+  className="calculatorContainer"
+  data-testid="caculatorDisplay"
+>
+  <div>
+    <input
+      className="resultContainer"
+      data-testid="resultDisplay"
+      disabled={true}
+      onKeyDown={[Function]}
+      type="text"
+      value={0}
+    />
+    <div
+      className="firstRow"
+    >
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "GhostWhite",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          AC
+        </p>
+      </div>
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "GhostWhite",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          +/-
+        </p>
+      </div>
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "GhostWhite",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          %
+        </p>
+      </div>
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "Moccasin",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          ÷
+        </p>
+      </div>
+    </div>
+    <div
+      className="secondRow"
+    >
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "GhostWhite",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          7
+        </p>
+      </div>
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "GhostWhite",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          8
+        </p>
+      </div>
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "GhostWhite",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          9
+        </p>
+      </div>
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "Moccasin",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          x
+        </p>
+      </div>
+    </div>
+    <div
+      className="thirdRow"
+    >
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "GhostWhite",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          4
+        </p>
+      </div>
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "GhostWhite",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          5
+        </p>
+      </div>
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "GhostWhite",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          6
+        </p>
+      </div>
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "Moccasin",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          -
+        </p>
+      </div>
+    </div>
+    <div
+      className="fourthRow"
+    >
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "GhostWhite",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          1
+        </p>
+      </div>
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "GhostWhite",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          2
+        </p>
+      </div>
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "GhostWhite",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          3
+        </p>
+      </div>
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "Moccasin",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          +
+        </p>
+      </div>
+    </div>
+    <div
+      className="fifthRow"
+    >
+      <div
+        className="inputValue"
+        style={
+          Object {
+            "backgroundColor": "GhostWhite",
+          }
+        }
+      >
+        <p
+          className="nameOfValue"
+          data-testid="calcValue"
+          onClick={[Function]}
+        >
+          0
+        </p>
+      </div>
+      <div
+        className="lastRow"
+      >
+        <div
+          className="inputValue"
+          style={
+            Object {
+              "backgroundColor": "GhostWhite",
+            }
+          }
+        >
+          <p
+            className="nameOfValue"
+            data-testid="calcValue"
+            onClick={[Function]}
+          >
+            .
+          </p>
+        </div>
+        <div
+          className="inputValue"
+          style={
+            Object {
+              "backgroundColor": "Moccasin",
+            }
+          }
+        >
+          <p
+            className="nameOfValue"
+            data-testid="calcValue"
+            onClick={[Function]}
+          >
+            =
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
