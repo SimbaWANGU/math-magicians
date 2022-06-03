@@ -42,6 +42,11 @@
 - Twitter: [@camilevahviraki](https://twitter.com/CamileVahviraki)
 - LinkedIn: [camilevahviraki](https://www.linkedin.com/in/camile-vahviraki-8180a6232/)
 
+## Deploy
+
+The live link from Heroku can be viewed [here](https://math---magician.herokuapp.com/calc)
+The live link from Netlify can be found [here](https://flourishing-clafoutis-72f88f.netlify.app/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
